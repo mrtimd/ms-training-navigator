@@ -12,7 +12,16 @@ https://learn.microsoft.com/en-us/training/courses/
 - 🧭 Learning path awareness and navigation
 - 🎯 Expand-to-top UX for focused learning
 
+Currently Support:
+  ✅ Course URLs
+  ✅ Browse Training fallback
+
 ## Pro Version - more training support soon...
+🚀 Learning Path root
+🚀 Module root
+🚀 Sprint Mode
+🚀 Progress dashboard
+🚀 Filters
 
 ## License
 
