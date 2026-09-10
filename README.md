@@ -46,5 +46,6 @@ Commercial redistribution of the core experience may reduce its value — please
 Load the extension in Chrome (Developer Mode) and open any Microsoft Learn course:
 Example: https://learn.microsoft.com/en-us/training/courses/pl-300t00 
 
-<img width="2560" height="1540" alt="image" src="https://github.com/user-attachments/assets/f3328d45-1cdd-4960-be41-b1140c6abf23" />
+<img width="2504" height="1252" alt="MS_Training_Navigator" src="https://github.com/user-attachments/assets/61f6e48d-7fb8-4f60-a435-d7617f1af415" />
+
 
