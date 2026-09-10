@@ -1,7 +1,7 @@
 # MS Training Navigator
 
 This browser extension enhances Microsoft Learn Course Study with a persistent sidebar TOC, progress tracking, and resume navigation.
-Go to Browse Training starting URL & Select a Course
+Go to Browse Training starting URL & Select a Course (formerly MS Course Navigator)
 https://learn.microsoft.com/en-us/training/courses/
 
 ## Features
